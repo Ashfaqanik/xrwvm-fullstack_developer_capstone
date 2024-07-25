@@ -12,6 +12,10 @@ img{
   margin-top: 1%;
   margin-bottom: 1%;
 }
+.contact-card{
+  color: rgb(93, 145, 142);
+  text-align: center;
+}
 
 .row{
   display: flex;  
@@ -34,7 +38,7 @@ img{
 
 .title{
   font-size: 20px;
-  background-color: rgb(97, 64, 128);
+  background-color: rgba(29, 26, 31, 0.87);
   color: white;
   text-align: center;
   margin:20px;
